@@ -1,0 +1,44 @@
+#admin{
+    display: flex;
+}
+
+.SideMenu{
+    flex-grow: 1;
+    border-right: solid 4px green;
+}
+
+#admin_body{
+    flex-grow: 6;
+    padding-left: 15px;
+}
+
+.AHeader{
+    text-align: center;
+    line-height: px;
+    background-color: brown;
+}
+
+/* .AHeader ul{
+    list-style: none;
+    padding: px;
+}
+
+.AHeader ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.AHeader a{
+    text-decoration: none;
+    color: black;
+} */
+
+
+.SideMenu ul{
+    list-style: none;
+}
+
+.SideMenu ul li a {
+    text-decoration: none;
+    color: blueviolet;
+}

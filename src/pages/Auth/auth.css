@@ -1,0 +1,53 @@
+.login {
+    width: 350px;
+    margin: 0 auto;
+    margin-top: 150px;
+    height: min-content;
+    padding: 30px;
+    border-radius: 20px;
+    background: #c1aaaa;
+}
+
+.group{
+    margin-bottom: 15px;
+}
+
+label{
+    display: block;
+}
+
+.login h1 {
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+
+.login form {
+    font-size: 14px;
+}
+
+.login form .form-group {
+    margin-bottom: 12px;
+}
+
+.login form .form-label {
+    font-size: 14px;
+}
+
+.login form input[type="submit"] {
+    font-size: 15px;
+    margin-top: 15px;
+}
+
+input::placeholder {
+    font-size: 14px; 
+}
+
+.login .password {
+    font-size: 14px;
+    text-align: right;
+}
+
+
+button{
+    width: 100px;
+}
